@@ -25,14 +25,3 @@ The projects primarily leverage **Python** and widely used computer vision libra
 * **Scikit-learn / NumPy / Matplotlib:** For data manipulation, numerical operations, and powerful data visualization.
 
 ---
-
-## Getting Started
-
-Each project typically resides in its own dedicated folder, containing:
-
-* A **`README.md`** with a detailed description of the project, its goals, methodology, results, and clear instructions for replication.
-* **Jupyter Notebooks** or **Python scripts** that contain the core code for the project.
-* A **`requirements.txt`** file listing all necessary libraries and their specific versions.
-* A **`data/`** directory (if applicable) with sample datasets or instructions on where to obtain them.
-
-To run a project, simply navigate to its directory, install the required dependencies (it's highly recommended to use a virtual environment), and follow the instructions provided in its respective `README.md`.
